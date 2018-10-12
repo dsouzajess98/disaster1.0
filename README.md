@@ -6,7 +6,7 @@ A cyclone is characterized by warm temperatures, high humidity, wind and rainfal
  
 Considering all the above shortcomings, our team proposes to develop a system that uses historical data trends for training the model and current weather data to monitor all factors mentioned above(obtained from IMD satellite and radar sources), thereby improving the probability of predicting a cyclone as early as possible, track its path with better accuracy and analyse its impact based on its intensity. 
 
-The method will try to use is as follows:
+The method that we will try to use is as follows:
 
 The neural network technique we will be implementing is based on the three-layer back propagation, using predictors such as zonal wind, relative humidity etc. The model contains five neurons, corresponding to the five predictors, five neurons in the hidden layers and one neuron in the output layer, namely the seasonal number of tropical cyclones formed. After a bit of research we found that five hidden neurons produce the best result.
 
