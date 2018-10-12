@@ -1,6 +1,6 @@
 # disaster1.0
 
-A tropical cyclone is defined as an area of low pressure which develops over tropical or subtropical waters. It is also called as typhoon or hurricane in other parts of the world.
+A tropical cyclone is defined as an area of low pressure which develops over tropical or subtropical waters. It is also called as typhoon or hurricane in other parts of the world. 
  
 A cyclone is characterized by warm temperatures, high humidity, wind and rainfall levels. Though there have been significant advancements in technology to predict the course of cyclones, yet they cannot be predicted with high accuracy as they can suddenly weaken or change their course. Moreover, the formation of cyclone can be only be known with certainty 24-48hrs before it strikes. This also leaves very less time for preparation and implementation of evacuation and other emergency plans. Hence, obtaining accurate predictions of the number of TCs (tropical cyclones), with lead times of at least 3 months or more, in an upcoming TC season is of vital importance for the preparation of emergency response services for the areas expected to be affected.
  
